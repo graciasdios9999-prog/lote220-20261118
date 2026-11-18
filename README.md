@@ -17,6 +17,6 @@ Buffer respondió HTTP 429, Retry-After 263703 s. No hay id de post en esta corr
 
 Enlaces directos:
 
-- https://media.githubusercontent.com/media/graciasdios9999-prog/lote220-20261118/main/ia_secretario.mp4
-- https://media.githubusercontent.com/media/graciasdios9999-prog/lote220-20261118/main/fe_mefiboset.mp4
-- https://media.githubusercontent.com/media/graciasdios9999-prog/lote220-20261118/main/cu_hioides.mp4
+- https://raw.githubusercontent.com/graciasdios9999-prog/lote220-20261118/main/ia_secretario.mp4
+- https://raw.githubusercontent.com/graciasdios9999-prog/lote220-20261118/main/fe_mefiboset.mp4
+- https://raw.githubusercontent.com/graciasdios9999-prog/lote220-20261118/main/cu_hioides.mp4
